@@ -1,0 +1,41 @@
+/*
+ Author: Ben Schaefer
+ Used to Over-write Bootstrap
+*/
+
+.text-secondary {
+    color: #FD815A !important;
+}
+
+.btn {
+    font-weight: bold !important;
+}
+
+h1 {
+    font-size: 3.5em !important;
+}
+
+.btn-primary {
+    background-color: #FD815A !important;
+    border-color: #FD815A !important;
+}
+
+.btn-secondary {
+    color: #536DCE !important;
+    background-color: #E5ECFF !important;
+    border-color: #E5ECFF !important;
+}
+
+.card {
+    border: none !important;
+}
+
+.bg-dark {
+    background-color: #333B49 !important;
+}
+
+ul {
+  list-style-type: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
